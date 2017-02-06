@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034983369693",
+    "firebase_url": "https://navigation-8e2c7.firebaseio.com",
+    "project_id": "navigation-8e2c7",
+    "storage_bucket": "navigation-8e2c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034983369693:android:92cbfa8f2372821b",
+        "android_client_info": {
+          "package_name": "com.example.mohsin.navigationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034983369693-ckgl3mtthnnh10uh7ng8uqaabnne23rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeNu8aPnofRvmoVqGfivPjSkiwg917jGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034983369693-ckgl3mtthnnh10uh7ng8uqaabnne23rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
